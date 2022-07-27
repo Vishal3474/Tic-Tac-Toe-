@@ -3,9 +3,17 @@
     "index.html": [
       {
         "id": "999c4563-185e-4571-93dc-d7fc12157415",
-        "line": 13,
+        "line": 1,
+        "version": 79,
+        "index": 0
+      }
+    ],
+    "main.js": [
+      {
+        "id": "6b622c2f-6bda-4cba-aaa9-cc1bddc2e7e2",
+        "line": 1,
         "version": 1,
-        "index": 233
+        "index": 0
       }
     ]
   }
